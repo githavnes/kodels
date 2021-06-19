@@ -1,5 +1,5 @@
 {
-    "name": "Kodelås",
+    "name": "code_lock",
     "description": "",
     "dependencies": {
         "core": "*",
